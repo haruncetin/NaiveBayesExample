@@ -1,0 +1,3 @@
+64 Bit sistemlerde "Could not find main class" hatasý olursa düzeltmek için lütfen aþaðýdaki adýmlarý izleyin.
+1. jre-7u9-windows-x64.exe dosyasýný çalýþtýrýn.
+2. Java64bitFix.reg dosyasýný çalýþtýrýn.
